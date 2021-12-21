@@ -31,5 +31,12 @@
       "id": "afeb8dd7-e50f-441b-baa2-cfa98e47a2c4"
     }
   ],
-  "customers": []
+  "customers": [
+    {
+      "firstname": "Mateo",
+      "lastname": "Lörs",
+      "email": "jessica.loers@gmail.com",
+      "id": "4c868bb2-7712-47f1-b050-42239a4b9354"
+    }
+  ]
 }
