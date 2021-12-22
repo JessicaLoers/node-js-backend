@@ -29,6 +29,48 @@
       "price": "4",
       "quanity": "5",
       "id": "afeb8dd7-e50f-441b-baa2-cfa98e47a2c4"
+    },
+    {
+      "productname": "teppich",
+      "price": "100",
+      "quanity": "3",
+      "id": "4ea11109-74b4-457d-b1f8-42db9ae69692"
+    },
+    {
+      "productname": "ball",
+      "price": "2",
+      "quanity": "6",
+      "id": "df751c0c-3c9b-4ac2-bddf-ee470f8722fc"
+    },
+    {
+      "productname": "ball",
+      "price": "2",
+      "quanity": "6",
+      "id": "428962ac-c69c-4464-a783-cf7562870381"
+    },
+    {
+      "productname": "ball",
+      "price": "5",
+      "quanity": "4",
+      "id": "39d75da2-c63b-4c35-b54e-e523a4cdea0c"
+    },
+    {
+      "productname": "ball",
+      "price": "5",
+      "quanity": "4",
+      "id": "615d9833-3cf2-4923-938e-9cf02951fe63"
+    },
+    {
+      "productname": "ball",
+      "price": "5",
+      "quanity": "4",
+      "id": "866c9acb-27eb-4fc7-b1d0-f01dac6376c5"
+    },
+    {
+      "productname": "katze",
+      "price": "1",
+      "quanity": "4",
+      "id": "c6c9d378-a8cf-4155-9258-54ee1c3588da"
     }
   ],
   "customers": [
@@ -37,6 +79,12 @@
       "lastname": "Lörs",
       "email": "jessica.loers@gmail.com",
       "id": "4c868bb2-7712-47f1-b050-42239a4b9354"
+    },
+    {
+      "firstname": "tycho",
+      "lastname": "schottelius",
+      "email": "jessica.loers@gmail.com",
+      "id": "ec795d8b-fccb-4cac-8932-51adfba5ef9e"
     }
   ]
 }
